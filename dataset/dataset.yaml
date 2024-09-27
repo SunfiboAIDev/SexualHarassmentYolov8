@@ -1,0 +1,5 @@
+train: C:/Users/hp/Desktop/WomanHarass/dataset/images/train  # Path to train images
+val: C:/Users/hp/Desktop/WomanHarass/dataset/images/val  # Path to validation images
+
+nc: 2  # Number of classes
+names: ['no_harassment', 'harassment']  # Class names
